@@ -10,12 +10,13 @@
 - rfid reader
 - rfid card
 - display
+- powerbank for graceful shutdown
 
 ### software
 
 - rust
-- evtl shellscripte
-- evtl ffmpeg
+- shellscripte?
+- ffmpeg?
 
 ## useful links
 
