@@ -10,7 +10,9 @@
 - rfid reader
 - rfid card
 - display
-- powerbank for graceful shutdown
+- powerbank für graceful shutdown
+- lautsprecher
+- 
 
 ### software
 
