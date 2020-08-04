@@ -19,7 +19,7 @@
 - rust
 - shellscripte?
 - ffmpeg?
-- gui: https://github.com/yewstack/yew ?
+- gui: https://github.com/yewstack/yew ? // Or HTTPS://rocket.rs ... ;)
 
 ## useful links
 
