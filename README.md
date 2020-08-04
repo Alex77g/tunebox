@@ -19,6 +19,7 @@
 - rust
 - shellscripte?
 - ffmpeg?
+- gui: https://github.com/yewstack/yew ?
 
 ## useful links
 
