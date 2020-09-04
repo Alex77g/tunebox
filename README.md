@@ -19,6 +19,7 @@
 - rust
 - shellscripte?
 - ffmpeg?
+- mp3 ploy https://github.com/RustAudio/rodio
 - gui: https://github.com/yewstack/yew ? // Or HTTPS://rocket.rs ... ;)
 
 ## useful links
