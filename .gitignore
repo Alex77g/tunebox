@@ -1,2 +1,5 @@
 client/rocket-ui/target
 client/rocket-ui/Cargo.lock
+
+server/target
+server/Cargo.lock
